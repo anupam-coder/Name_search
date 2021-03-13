@@ -12,6 +12,9 @@ My Name search application
 
 # Live server hosted on github
   http://anupam-coder.github.io/Name_search/
+  
+ ![App_Demo](https://user-images.githubusercontent.com/71912675/111028137-cdb2df00-841a-11eb-89e0-5a17fcaed999.JPG)
+ 
 
 # Steps to run
   1. Open your terminal and then type
@@ -32,7 +35,7 @@ My Name search application
 # Library used for displaying name
   In this code i have used a name-generator library and installed using the below command
   npm install -g @rstacruz/startup-name-generator
-
+  
 
 # Resources used
 
