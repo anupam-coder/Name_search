@@ -2,6 +2,9 @@
 
 My Name search application
 
+# Live server hosted on github
+  http://anupam-coder.github.io/Name_search/
+
 ## Steps to run
   1. Open your terminal and then type
 
