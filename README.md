@@ -1,6 +1,9 @@
-# Name It
+# My Name search application
 
-My Name search application
+## Application Overview
+  I have built an application which generates name suggestions for any entered keywords.The main
+  objective of the application is that it provides a bunch of name suggestions to a user who is thinking 
+  of a name for it's upcoming startup, venture or product. The application will suggest few names related to the keyword entered by the user and the user can select any particular name card. After selecting and clicking on it the user will be navigated to an URL which will show the availability and the charges of hosting the website.
 
 # Live server hosted on github
   http://anupam-coder.github.io/Name_search/
@@ -11,7 +14,7 @@ My Name search application
     $git clone {the url of the Github repo}
     This command will make a clone of the repo.
 
-  2. change directory into the new folder and type
+  2. Change directory into the new folder and type
 
      $npm install
      This will install the required dependencies

@@ -25,11 +25,15 @@ class App extends React.Component {
     render() {
         return (
             <div>
+                {/* Header component */}
                 <Header
                     headerExpanded={this.state.headerExpanded}
                     headTitle={this.state.headerText}
                 />
+                {/* SearchBox component */}
                 <SeachBox onInputChange={this.handleInputChange} />
+
+                {/* ResultsContainer component */}
                 <ResultsContainer suggestedNames={this.state.suggestedNames} />
             </div>
         )
