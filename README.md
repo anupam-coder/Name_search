@@ -24,8 +24,8 @@ My Name search application
 
   2. Change directory into the new folder and type
 
-     $npm install
-     This will install the required dependencies
+    $npm install
+    This will install the required dependencies
 
   3. To run the React Project
 
@@ -50,7 +50,7 @@ My Name search application
   like searching for Marketing Strategies, Selection of Tech Stack for the product, communicate with like minded people, asking for feedbacks and so on.
   
 
-
+# Thank you for showing up :)
 
 
 
