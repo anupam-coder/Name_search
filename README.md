@@ -15,6 +15,12 @@ My Name search application
   
  ![App_Demo](https://user-images.githubusercontent.com/71912675/111028137-cdb2df00-841a-11eb-89e0-5a17fcaed999.JPG)
  
+ 
+# Steps to test application functionality
+  1. Open the live server.
+  2. Click on the textbox and enter a keyword e.g. "cloud".
+  3. User will be able to view the names related to the entered keyword.
+  4. Click on any of the search results(namecard) and user will be navigated to Namecheap URL, here the user can check out regarding the domain details and availablity.
 
 # Steps to run
   1. Open your terminal and then type
